@@ -1,0 +1,17 @@
+sudo apt update
+sudo apt install docker.io
+git clone path
+ls ---path
+sudo docker images
+sudo docker build -t qwerty .
+sudo docker images
+sudo docker run -d -p 7667:7667 qwerty
+sudo docker ps
+
+
+cmd - git clone path
+drop all files
+cmd - git status
+git add .
+git commit -m "commiting"
+git push
