@@ -1,0 +1,5 @@
+git clone path
+git add .
+git status
+git commit -m "commiting"
+git push
